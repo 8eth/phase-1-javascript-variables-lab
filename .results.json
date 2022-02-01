@@ -5,9 +5,9 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2022-01-30T18:50:27.136Z",
-    "end": "2022-01-30T18:50:27.296Z",
-    "duration": 160
+    "start": "2022-02-01T22:58:28.661Z",
+    "end": "2022-02-01T22:58:28.898Z",
+    "duration": 237
   },
   "tests": [
     {
@@ -41,7 +41,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
